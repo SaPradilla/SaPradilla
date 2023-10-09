@@ -1,7 +1,8 @@
 ![wall](https://i.imgur.com/zal9edQ.jpg)
 # Hi, I'm SaPradilla
 <img  align="left" src="hw.gif" width="15%" height="100px" > 
-
+|||||
+ 
       Estudiante de software con conocimientos en front-end, amante del diseño en general, soy perseverante,
       versátil y me adapto 
       a cualquier ambiente con facilidad gracias a mi actitud posit
