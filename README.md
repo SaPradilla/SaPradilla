@@ -1,16 +1,17 @@
 ![wall](https://i.imgur.com/zal9edQ.jpg)
 # Hi, I'm SaPradilla
 <img  align="left" src="hw.gif" width="15%" height="100px" >  
-I am **Full-Stack | Software Engineer | Cloud Enthusiast** from India :india:.
 
+I am **Full-Stack | Software Engineer | Cloud Enthusiast** from India :india:.
 I am interested in develop (open source) software solutions using JavaScript, TypeScript, NodeJS and Golang.
 
-      Estudiante de analisis y desarrollo de software con hambre de conocimiento
-      amante del diseño en general. Soy perseverante, versátil, agil y me adapto 
-      a cualquier ambiente con facilidad gracias a mi actitud positiva. Me gusta 
-      compartir mis conocimientos y ayudar a los demás, una de mis mayores virtudes 
-      es el no rendirme con facilidad. 
-   
+        Estudiante de analisis y desarrollo de software con hambre de conocimiento
+        amante del diseño en general. Soy perseverante, versátil, agil y me adapto 
+        a cualquier ambiente con facilidad gracias a mi actitud positiva. Me gusta 
+        compartir mis conocimientos y ayudar a los demás, una de mis mayores virtudes 
+        es el no rendirme con facilidad. 
+    
+
 
 
 # Tecnologías que s (y estoy aprendiendo) 
