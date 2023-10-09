@@ -1,4 +1,4 @@
-[![banner](https://github.com/SaPradilla/SaPradilla/blob/main/wallpaperme.jpg)]   
+[![banner](https://photos.app.goo.gl/RQvtY8PhLKS9VrNK8)]   
 # Hi, I'm SaPradilla
 <img src="hw.gif" width="20%" height="100px" > 
 
