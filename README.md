@@ -1,4 +1,4 @@
-<img align="left" src="wallpaperme.jpg" alt="Heyy" width="95%" />
+<img align="left" src="wallpaperme.jpg" alt="Heyy" width="100%" />
 ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" >   Glad to see you here!
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Chetan07j&color=FAC151)
