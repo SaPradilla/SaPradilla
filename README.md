@@ -1,5 +1,5 @@
 <img align="left" src="wallpaperme.jpg" alt="Heyy" width="95%" />
-### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >   Glad to see you here!
+### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" >   Glad to see you here!
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Chetan07j&color=FAC151)
 [![javascript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)][1]
