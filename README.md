@@ -1,6 +1,7 @@
 <img align="left" src="wallpaperme.jpg" alt="Heyy" width="100%" />
 ### Hi,   Glad to see you here!
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif](https://progra545857149.files.wordpress.com/2018/10/b4a0d-fondos2banimados2_zpsdbpvulbd.gif?w=711" width="100%" height="40px" >
+<img src="https://progra545857149.files.wordpress.com/2018/10/b4a0d-fondos2banimados2_zpsdbpvulbd.gif?w=711" width="100%" height="40px" >
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=Chetan07j&color=FAC151)
 [![javascript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)][1]
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoWidth=20&logoColor=white)
