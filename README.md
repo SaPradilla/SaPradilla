@@ -2,7 +2,8 @@
 # Hi, I'm SaPradilla
 <img  align="left" src="hw.gif" width="15%" height="100px" > 
 
-      Estudiante de software con conocimientos en front-end, amante del diseño en general,  soy perseverante, versátil y me adapto 
+      Estudiante de software con conocimientos en front-end, amante del diseño en general, soy perseverante,
+      versátil y me adapto 
       a cualquier ambiente con facilidad gracias a mi actitud posit
       iva. Me centro en mi trabajo para satisfacer las necesidades y
       preferencias del cliente. Me gusta compartir mis conocimientos
