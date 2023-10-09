@@ -1,6 +1,8 @@
-[![banner](<img align="left" src="wallpaperme.jpg" alt="Heyy" width="100%"/>)]   
+[![banner](https://github.com/SaPradilla/SaPradilla/blob/main/wallpaperme.jpg)]   
 # Hi, I'm SaPradilla
 <img src="hw.gif" width="20%" height="100px" > 
+
+      <img align="left" src="wallpaperme.jpg" alt="Heyy" width="100%"/>
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Chetan07j&color=FAC151)
