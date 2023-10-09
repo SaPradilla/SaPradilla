@@ -13,6 +13,7 @@ I am interested in develop (open source) software solutions using JavaScript, Ty
     
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaPradilla&theme=dark" alt="sapradilla" /></p>
 
 # Tecnologías que s (y estoy aprendiendo) 
  ★゜・。。・゜☆゜・。。・゜★゜・。。・゜☆   ★゜・。。・゜☆゜・。。・゜★゜
@@ -37,6 +38,5 @@ I am interested in develop (open source) software solutions using JavaScript, Ty
 
  ★゜・。。・゜☆゜・。。・゜★゜・。。・゜☆   ★゜・。。・゜☆゜・。。・゜★゜
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaPradilla&theme=dark" alt="sapradilla" /></p>
 
 
