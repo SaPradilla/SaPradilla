@@ -1,6 +1,6 @@
 <img align="left" src="wallpaperme.jpg" alt="Heyy" width="100%"/>
-# Hi, I'm SaPradilla 
-<img src="hw.gif" width="20%" height="100px" >
+<img src="hw.gif" width="20%" height="100px" > # Hi, I'm SaPradilla 
+
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Chetan07j&color=FAC151)
 [![javascript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)][1]
