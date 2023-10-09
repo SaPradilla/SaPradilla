@@ -4,7 +4,7 @@
 
   **Diseñador Gráfico |  Aprendiz-ADSO** de Colombia/Risaralda 🇨🇴.
   
-  Estoy interasado en el desarrollo software y en el diseño con el fin de realizar soluciones
+Estoy interasado en el desarrollo software y en el diseño con el fin de realizar soluciones
   
         Estudiante de analisis y desarrollo de software con hambre de conocimiento
         amante del diseño en general. Soy perseverante, versátil, agil y me adapto 
