@@ -1,4 +1,4 @@
-[![banner](https://photos.app.goo.gl/RQvtY8PhLKS9VrNK8)]   
+[img]https://i.imgur.com/zal9edQ.jpg[/img]
 # Hi, I'm SaPradilla
 <img src="hw.gif" width="20%" height="100px" > 
 
