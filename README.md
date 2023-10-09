@@ -3,11 +3,11 @@
 <img  align="left" src="hw.gif" width="15%" height="100px" > 
 
       Estudiante de software con conocimientos en front-end, amante
-      del diseño en general, soy perseverante, versátil y me adapto a
-      cualquier ambiente con facilidad gracias a mi actitud positiva. Me
-      centro en mi trabajo para satisfacer las necesidades y preferencias
-      del cliente. Me gusta compartir mis conocimientos y ayudar a los
-      demás
+      del diseño en general, soy perseverante, versátil y me adapto 
+      a cualquier ambiente con facilidad gracias a mi actitud posit
+      iva. Me centro en mi trabajo para satisfacer las necesidades y
+      preferencias del cliente. Me gusta compartir mis conocimientos
+      y ayudar a los demás
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Chetan07j&color=FAC151)
