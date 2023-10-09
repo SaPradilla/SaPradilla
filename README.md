@@ -1,6 +1,6 @@
 <img align="left" src="wallpaperme.jpg" alt="Heyy" width="100%" />
 ### Hi,   Glad to see you here!
-<img src="hw.gif" width="40%" height="100px" >
+<img src="hw.gif" width="20%" height="100px" >
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Chetan07j&color=FAC151)
 [![javascript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)][1]
