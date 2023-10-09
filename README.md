@@ -2,9 +2,9 @@
 # Hi, I'm SaPradilla
 <img  align="left" src="hw.gif" width="15%" height="100px" >  
 
-I am **Full-Stack | Software Engineer | Cloud Enthusiast** from India :india:.
-I am interested in develop (open source) software solutions using JavaScript, TypeScript, NodeJS and Golang.
-
+  **Diseñador Gráfico |  Aprendiz-ADSO** de Colombia/Risaralda 🇨🇴.
+  Estoy interasado en el desarrollo software y en el diseño con el fin de realizar soluciones}
+  
         Estudiante de analisis y desarrollo de software con hambre de conocimiento
         amante del diseño en general. Soy perseverante, versátil, agil y me adapto 
         a cualquier ambiente con facilidad gracias a mi actitud positiva. Me gusta 
@@ -12,7 +12,7 @@ I am interested in develop (open source) software solutions using JavaScript, Ty
         es el no rendirme con facilidad. 
     
 
-
+### Stats Github
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaPradilla&theme=dark" alt="sapradilla" /></p>
 
 # Tecnologías que s (y estoy aprendiendo) 
