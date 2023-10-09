@@ -1,2 +1,2 @@
 # Hi
-<img align="left" src="wallpaperme.jpg" alt="Heyy" width="80%" />
+<img align="left" src="wallpaperme.jpg" alt="Heyy" width="95%" />
