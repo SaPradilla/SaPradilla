@@ -1,6 +1,6 @@
 ![wall](https://i.imgur.com/zal9edQ.jpg)
 # Hi, I'm SaPradilla
-<img  align="left" src="hw.gif" width="15%" height="100px" margin="20px" >  
+<img  align="left" src="hw.gif" width="15%" height="100px" margin="100px" >  
 
   **Diseñador Gráfico |  Aprendiz-ADSO** de Colombia/Risaralda 🇨🇴.
   
