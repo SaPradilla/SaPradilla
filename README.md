@@ -6,8 +6,8 @@
   
 Estoy interasado en el desarrollo software y en el diseño con el fin de realizar soluciones
   
-        Estudiante de analisis y desarrollo de software con hambre de conocimiento
-        amante del diseño en general. Soy perseverante, versátil, agil y me adapto 
+        Estudiante de análisis y desarrollo de software con hambre de conocimiento
+        amante del diseño en general. Soy perseverante, versátil, ágil y me adapto 
         a cualquier ambiente con facilidad gracias a mi actitud positiva. Me gusta 
         compartir mis conocimientos y ayudar a los demás, una de mis mayores virtudes 
         es el no rendirme con facilidad. 
@@ -16,7 +16,7 @@ Estoy interasado en el desarrollo software y en el diseño con el fin de realiza
 ### Stats Github
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaPradilla&theme=dark" alt="sapradilla" /></p>
 
-# Tecnologías que s (y estoy aprendiendo) 
+# Tecnologías que sé (y estoy aprendiendo) 
  ★゜・。。・゜☆゜・。。・゜★゜・。。・゜☆   ★゜・。。・゜☆゜・。。・゜★゜
 ## 『 Lenguajes  』 
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)](#) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
@@ -35,7 +35,7 @@ Estoy interasado en el desarrollo software y en el diseño con el fin de realiza
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 『  OS  』
-[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](#)[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](#)[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](#)[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 
  ★゜・。。・゜☆゜・。。・゜★゜・。。・゜☆   ★゜・。。・゜☆゜・。。・゜★゜
 
