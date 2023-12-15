@@ -6,7 +6,7 @@
   
 Estoy interasado en el desarrollo software y en el diseño con el fin de realizar soluciones
   
-        Estudiante de análisis y desarrollo de software con hambre de conocimiento
+        Estudiante de análisis y desarrollo de software con ansias por aprender,
         amante del diseño en general. Soy perseverante, versátil, ágil y me adapto 
         a cualquier ambiente con facilidad gracias a mi actitud positiva. Me gusta 
         compartir mis conocimientos y ayudar a los demás, una de mis mayores virtudes 
