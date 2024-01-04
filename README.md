@@ -1,8 +1,8 @@
 ![Wallpaper](https://i.imgur.com/zal9edQ.jpg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unset&duration=2000&pause=800&color=F7F7F7&random=false&width=435&lines=Hola!;Soy+SaPradilla)](https://git.io/typing-svg)
+
 # SaPradilla - Desarrollador y Diseñador Gráfico
 
-¡Hola! Soy SaPradilla, un estudiante de análisis y desarrollo de software de Colombia. Me apasiona el desarrollo de software y el diseño gráfico, buscando soluciones creativas a través de la combinación de estas disciplinas.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unset&size=33&duration=2000&pause=800&color=F7F7F7&random=false&width=435&lines=Hola!;Soy+SaPradilla)](https://git.io/typing-svg) un estudiante de análisis y desarrollo de software de Colombia. Me apasiona el desarrollo de software y el diseño gráfico, buscando soluciones creativas a través de la combinación de estas disciplinas.
 
 ## Sobre mí
 - 💼 Diseñador Gráfico | Aprendiz-ADSO en Colombia/Risaralda co.
