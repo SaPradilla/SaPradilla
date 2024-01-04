@@ -14,7 +14,8 @@ Estoy interasado en el desarrollo software y en el diseño con el fin de realiza
     
 
 ### Stats Github
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaPradilla&theme=github_dark" alt="sapradilla" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaPradilla&theme=great_gatsby" alt="sapradilla" /></p>
+<p>&nbsp;<img align="center" src=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaPradilla&theme=github_dark&exclude=HTML" alt="sapradilla" /></p>
 
 # Tecnologías que sé (y estoy aprendiendo) 
  ★゜・。。・゜☆゜・。。・゜★゜・。。・゜☆   ★゜・。。・゜☆゜・。。・゜★゜
