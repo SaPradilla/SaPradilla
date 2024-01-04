@@ -14,7 +14,7 @@ Estoy interasado en el desarrollo software y en el diseño con el fin de realiza
     
 
 ### Stats Github
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaPradilla&theme=dark" alt="sapradilla" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaPradilla&theme=github_dark" alt="sapradilla" /></p>
 
 # Tecnologías que sé (y estoy aprendiendo) 
  ★゜・。。・゜☆゜・。。・゜★゜・。。・゜☆   ★゜・。。・゜☆゜・。。・゜★゜
